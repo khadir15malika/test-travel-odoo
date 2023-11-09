@@ -1,6 +1,6 @@
 # test-travel-odoo
 
-
+**Mon module Odoo "Contact_Travel"**
 
 Le module "contact_travel" enrichit Odoo en fournissant des fonctionnalités avancées de gestion des voyages associés aux contacts. Les principales fonctionnalités incluent la possibilité de créer et de suivre des informations détaillées sur les voyages, telles que le nom, la date de départ, la destination, le contact associé et le montant du voyage.
 
@@ -31,7 +31,7 @@ La capture d'écran ci-dessus illustre les voyages associés aux contacts.
 
 La vue formulaire du contact offre une interface conviviale pour gérer les informations relatives aux contacts. Elle intègre de manière transparente des fonctionnalités clés telles que le bouton "Voyages de l'Utilisateur" pour accéder rapidement à la liste des voyages associés à ce contact. Le champ "Nombre de Voyages" fournit instantanément le compte total des voyages liés à ce contact. De plus, le champ "Niveau de Récompense" est automatiquement calculé en fonction du montant cumulatif des voyages, affichant "Platine" pour un montant >= 100000, "Or" pour >= 50000, et "Argent" sinon. Cette automatisation simplifie la gestion des récompenses pour chaque contact.
 
-![Vue Formulaire de Contact](./docs/IMAGES/3.png)
+![Vue Formulaire de Contact](./docs/IMAGES/3.PNG)
 
 La capture d'écran ci-dessus illustre la vue formulaire de contact.
    
